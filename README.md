@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-He/Him. Working with C++, Bazel, Python, Ansible, ELK and whatever comes handy :)
+He/Him. Quality guy working with C++, Bazel, Python, Ansible, ELK and whatever comes handy :)
 
 * 🌍  I'm based in Porto(PT) and Cáceres(ES)
 * 🖥️  See my portfolio at [sousajo-cc](http://sousajo-cc.github.io)
