@@ -6,6 +6,7 @@ He/Him. Quality guy working with C++, Bazel, Python, Ansible, ELK and whatever c
 * 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on interesting stuff.
 
+Play Chaz -> https://sjgames.github.io/chaz_web
 
 ### Socials
 
